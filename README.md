@@ -3,9 +3,9 @@
 안녕하세요! 김대현입니다. <br>
 **계획**, **꾸준한 실천** 그리고 **공유의 가치를 중요시**합니다. <br>
 
-# About ME
+## About ME
 
-### 📧Contact
+### 📧 Contact
 <a href="mailto:daehyun99@kakao.com">
     <img src="https://img.shields.io/badge/daehyun99@kakao.com-FEE500?style=for-the-badge&logo=maildotru&logoColor=black"/>
 </a>
@@ -48,7 +48,8 @@
 | --- | --- | --- |
 | AICE Associate | AICE | 2025.01 |
 
---- 
+---
+
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img align="center" width=385 src="https://github-readme-stats.vercel.app/api?username=daehyun99&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=ffffff&text_color=ffffff&title_color=539bf500e6fe\&rank_icon=github" />
 </a>
