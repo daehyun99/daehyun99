@@ -43,6 +43,12 @@
 | 2024.07 ~ 2024.08 | MSIS-LAB | 딥러닝 세미나 |
 | 2024.09 ~ 2025.02 | KT AIVLE School 6기 | AI 개발자 트랙 |
 
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+| 활동 | 저장소 | PR 링크 |
+| --- | --- | --- |
+| Merged PR | [pgmpy/pgmpy](https://github.com/pgmpy/pgmpy) | [#2279](https://github.com/pgmpy/pgmpy/pull/2284) |
+| Merged PR | [pgmpy/pgmpy](https://github.com/pgmpy/pgmpy) | [#2287](https://github.com/pgmpy/pgmpy/pull/2287) |
+| Opened PR | [pgmpy/pgmpy](https://github.com/pgmpy/pgmpy) | [#2294](https://github.com/pgmpy/pgmpy/pull/2294) |
 ## 🏅 Certificate
 | 자격증명 | 발행처/기관 | 취득일 |
 | --- | --- | --- |
