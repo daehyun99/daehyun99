@@ -48,7 +48,7 @@
 | --- | --- | --- |
 | Merged PR | [pgmpy/pgmpy](https://github.com/pgmpy/pgmpy) | [#2279](https://github.com/pgmpy/pgmpy/pull/2284) |
 | Merged PR | [pgmpy/pgmpy](https://github.com/pgmpy/pgmpy) | [#2287](https://github.com/pgmpy/pgmpy/pull/2287) |
-| Opened PR | [pgmpy/pgmpy](https://github.com/pgmpy/pgmpy) | [#2294](https://github.com/pgmpy/pgmpy/pull/2294) |
+| Merged PR | [pgmpy/pgmpy](https://github.com/pgmpy/pgmpy) | [#2294](https://github.com/pgmpy/pgmpy/pull/2294) |
 ## 🏅 Certificate
 | 자격증명 | 발행처/기관 | 취득일 |
 | --- | --- | --- |
