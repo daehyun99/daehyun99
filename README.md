@@ -37,8 +37,8 @@ HI! I am Dae-Hyun Kim. <br>
 ## 🤝 Open-Source Contributions
 | Repository | Description |
 | --- | --- |
-| [<img src="https://github.com/hellopy-korea.png" width="60" height="60" style="border-radius:50%;">](https://github.com/HelloPy-Korea/CLIck-Me) | Led a 3-week project session on building a self-introduction CLI.|
 | [<img src="https://github.com/pgmpy.png" width="60" height="60" style="border-radius:50%;">](https://github.com/pgmpy/pgmpy) | Feature development and debugging for `DAG`, `PDAG`, and `ADMG` classes. |
+| [<img src="https://github.com/hellopy-korea.png" width="60" height="60" style="border-radius:50%;">](https://github.com/HelloPy-Korea/CLIck-Me) | Led a 3-week project session on building a self-introduction CLI.|
 
 ## 🚀 Projects
 | Project Name | Description | Tech Stack | Links |
