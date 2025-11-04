@@ -17,8 +17,9 @@ REPO_NAME = "pgmpy/pgmpy"
 
 # --- [수정] 파일 저장 경로 설정 ---
 OUTPUT_DIR = "data"
-OUTPUT_FILENAME1 = os.path.join(OUTPUT_DIR, "stage_pr.txt")
-OUTPUT_FILENAME2 = os.path.join(OUTPUT_DIR, "stage_issue.txt")
+OUTPUT_FILENAME1 = os.path.join(OUTPUT_DIR, "stage_issue.txt")
+OUTPUT_FILENAME2 = os.path.join(OUTPUT_DIR, "stage_pr.txt")
+
 
 COMMIT_FILE = os.path.join(OUTPUT_DIR, "commit.txt")
 STAGE_ISSUE_FILE = os.path.join(OUTPUT_DIR, "stage_issue.txt")
