@@ -34,7 +34,9 @@ HI! I am Dae-Hyun Kim. <br>
 </a>
 
 
-## 🤝 Open-Source Contributions (🟢: `Open / In Progress` | 🟣: `Merged / Done` | 🔴: `Closed`)
+## 🤝 Open-Source Contributions
+> 🟢: `Open / In Progress` | 🟣: `Merged / Done` | 🔴: `Closed`
+
 ### [PGMPY/PGMPY](https://github.com/pgmpy/pgmpy)
 [<img src="https://github.com/pgmpy.png" width="60" height="60" style="border-radius:50%;">](https://github.com/pgmpy/pgmpy)
 | Description | issues | pull requests |
