@@ -34,11 +34,24 @@ HI! I am Dae-Hyun Kim. <br>
 </a>
 
 
-## 🤝 Open-Source Contributions
-| Repository | Description |
-| --- | --- |
-| [<img src="https://github.com/pgmpy.png" width="60" height="60" style="border-radius:50%;">](https://github.com/pgmpy/pgmpy) | Feature development and debugging for `DAG`, `PDAG`, and `ADMG` classes. |
-| [<img src="https://github.com/hellopy-korea.png" width="60" height="60" style="border-radius:50%;">](https://github.com/HelloPy-Korea/CLIck-Me) | Led a 3-week project session on building a self-introduction CLI.|
+## 🤝 Open-Source Contributions (🟢: `Open / In Progress` | 🟣: `Merged / Done` | 🔴: `Closed`)
+### [PGMPY/PGMPY](https://github.com/pgmpy/pgmpy)
+[<img src="https://github.com/pgmpy.png" width="60" height="60" style="border-radius:50%;">](https://github.com/pgmpy/pgmpy)
+| Description | issues | pull requests |
+| --- | --- | --- |
+| [Feat] Feature development and debugging for `DAG`, `PDAG`, and `ADMG` classes. | 🟣[#2278](https://github.com/pgmpy/pgmpy/issues/2278)<br>🟣[#2279](https://github.com/pgmpy/pgmpy/issues/2279)<br>🟣[#2280](https://github.com/pgmpy/pgmpy/issues/2280) | 🟣[#2284](https://github.com/pgmpy/pgmpy/pull/2284)<br>🟣[#2287](https://github.com/pgmpy/pgmpy/pull/2280)<br>🟣[#2308](https://github.com/pgmpy/pgmpy/pull/2308) |
+| [Bug] Resolution of an error related to the node role in the Graph class | 🔴[#2303](https://github.com/pgmpy/pgmpy/issues/2303)<br>🔴[#2304](https://github.com/pgmpy/pgmpy/issues/2304)<br>🔴[#2305](https://github.com/pgmpy/pgmpy/issues/2305)<br>🔴[#2306](https://github.com/pgmpy/pgmpy/issues/2306) | 🔴[#2315](https://github.com/pgmpy/pgmpy/pull/2315) |
+| [Bug] Resolution of a bug preventing the `PDAG` class's `add_node()` method from handling `latent` roles | 🔴[#2307](https://github.com/pgmpy/pgmpy/issues/2307) | 🔴[#2310](https://github.com/pgmpy/pgmpy/pull/2310) |
+| [Refactor] Design and refactoring of the `_CoreGraph` that forms the basis graph class of pgmpy | 🟣[#2330](https://github.com/pgmpy/pgmpy/issues/2330)<br>🟢[#2376](https://github.com/pgmpy/pgmpy/issues/2376)<br>🟢[#2383](https://github.com/pgmpy/pgmpy/issues/2376)<br>🟢[#2384](https://github.com/pgmpy/pgmpy/issues/2384)<br>🟢[#2385](https://github.com/pgmpy/pgmpy/issues/2385) | 🔴[#2393](https://github.com/pgmpy/pgmpy/pull/2392)<br> 🟢[#2402](https://github.com/pgmpy/pgmpy/pull/2402) |
+| [etc] Issue creation or code improvement suggestion. | 🟣[#2349](https://github.com/pgmpy/pgmpy/issues/2349)<br>🟢[#2379](https://github.com/pgmpy/pgmpy/issues/2379) | 🟣[#2381](https://github.com/pgmpy/pgmpy/pull/2381)<br>🟢[#2400](https://github.com/pgmpy/pgmpy/pull/2400)|
+
+---
+
+### [HelloPY/CLIck-Me](https://github.com/HelloPy-Korea/CLIck-Me)
+[<img src="https://github.com/hellopy-korea.png" width="60" height="60" style="border-radius:50%;">](https://github.com/HelloPy-Korea/CLIck-Me)
+| Description | issues | pull requests |
+| --- | --- | --- |
+| Led a 3-week project session on building a self-introduction CLI. | - | 🟣[#1](https://github.com/HelloPy-Korea/CLIck-Me/pull/1)<br>🟣[#2](https://github.com/HelloPy-Korea/CLIck-Me/pull/2)<br>🟣[#3](https://github.com/HelloPy-Korea/CLIck-Me/pull/3)<br>🟣[#7](https://github.com/HelloPy-Korea/CLIck-Me/pull/7)<br>🟣[#8](https://github.com/HelloPy-Korea/CLIck-Me/pull/8)<br>🟣[#11](https://github.com/HelloPy-Korea/CLIck-Me/pull/11) |
 
 ## 🚀 Projects
 | Project Name | Description | Tech Stack | Links |
