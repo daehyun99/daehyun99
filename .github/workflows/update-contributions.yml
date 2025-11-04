@@ -10,6 +10,7 @@ on:
     paths:
       # 파이썬 스크립트, 요구사항, 워크플로우 파일이 변경될 때 실행
       - 'main.py'
+      - 'data/**.txt'
       - 'scripts/**.py'
       - 'requirements.txt'
       - '.github/workflows/**'
