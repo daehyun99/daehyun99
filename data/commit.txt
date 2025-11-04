@@ -10,6 +10,7 @@
 🟣[#2294](https://github.com/pgmpy/pgmpy/pull/2294)
 🟣[#2287](https://github.com/pgmpy/pgmpy/pull/2287)
 🟣[#2284](https://github.com/pgmpy/pgmpy/pull/2284)
+🟢[#2402](https://github.com/pgmpy/pgmpy/pull/2402)
 🟢[#2385](https://github.com/pgmpy/pgmpy/issues/2385)
 🟢[#2384](https://github.com/pgmpy/pgmpy/issues/2384)
 🟢[#2383](https://github.com/pgmpy/pgmpy/issues/2383)
@@ -21,3 +22,4 @@
 🔴[#2306](https://github.com/pgmpy/pgmpy/issues/2306)
 🔴[#2304](https://github.com/pgmpy/pgmpy/issues/2304)
 🔴[#2303](https://github.com/pgmpy/pgmpy/issues/2303)
+🔴[#2305](https://github.com/pgmpy/pgmpy/issues/2305)
