@@ -37,8 +37,7 @@ HI! I am Dae-Hyun Kim. <br>
 ## 🤝 Open-Source Contributions
 > 🟢: `Open / In Progress` | 🟣: `Merged / Done` | 🔴: `Closed`
 
-### [PGMPY/PGMPY](https://github.com/pgmpy/pgmpy)
-[<img src="https://github.com/pgmpy.png" width="60" height="60" style="border-radius:50%;">](https://github.com/pgmpy/pgmpy)
+### [<img src="https://github.com/pgmpy.png" width="20" height="20" style="border-radius:50%;">](https://github.com/pgmpy/pgmpy) [PGMPY/PGMPY](https://github.com/pgmpy/pgmpy)
 | Description | issues | pull requests |
 | --- | --- | --- |
 | [Feat] Feature development and debugging for `DAG`, `PDAG`, and `ADMG` classes. | 🟣[#2278](https://github.com/pgmpy/pgmpy/issues/2278)<br>🟣[#2279](https://github.com/pgmpy/pgmpy/issues/2279)<br>🟣[#2280](https://github.com/pgmpy/pgmpy/issues/2280) | 🟣[#2284](https://github.com/pgmpy/pgmpy/pull/2284)<br>🟣[#2287](https://github.com/pgmpy/pgmpy/pull/2280)<br>🟣[#2308](https://github.com/pgmpy/pgmpy/pull/2308) |
@@ -50,8 +49,7 @@ HI! I am Dae-Hyun Kim. <br>
 
 ---
 
-### [HelloPY/CLIck-Me](https://github.com/HelloPy-Korea/CLIck-Me)
-[<img src="https://github.com/hellopy-korea.png" width="60" height="60" style="border-radius:50%;">](https://github.com/HelloPy-Korea/CLIck-Me)
+### [<img src="https://github.com/hellopy-korea.png" width="20" height="20" style="border-radius:50%;">](https://github.com/HelloPy-Korea/CLIck-Me)[HelloPY/CLIck-Me](https://github.com/HelloPy-Korea/CLIck-Me)
 | Description | issues | pull requests |
 | --- | --- | --- |
 | Led a 3-week project session on building a self-introduction CLI. | - | 🟣[#1](https://github.com/HelloPy-Korea/CLIck-Me/pull/1)<br>🟣[#2](https://github.com/HelloPy-Korea/CLIck-Me/pull/2)<br>🟣[#3](https://github.com/HelloPy-Korea/CLIck-Me/pull/3)<br>🟣[#7](https://github.com/HelloPy-Korea/CLIck-Me/pull/7)<br>🟣[#8](https://github.com/HelloPy-Korea/CLIck-Me/pull/8)<br>🟣[#11](https://github.com/HelloPy-Korea/CLIck-Me/pull/11) |
