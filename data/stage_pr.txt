@@ -1,0 +1,1 @@
+🟢[#2417](https://github.com/pgmpy/pgmpy/pull/2417)
