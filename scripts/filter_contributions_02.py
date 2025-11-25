@@ -27,6 +27,7 @@ def filter_and_write_file(stage_filepath: str, committed_items: set):
     
     # 1. Stage 파일 읽기
     stage_items = read_lines_to_set(stage_filepath)
+    stage_items = set(sorted(list(stage_items)))
     if not stage_items:
         print(f"-> 처리할 내용이 없습니다.")
         return 0
