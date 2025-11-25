@@ -27,14 +27,13 @@ def filter_and_write_file(stage_filepath: str, committed_items: set):
     
     # 1. Stage 파일 읽기
     stage_items = read_lines_to_set(stage_filepath)
-    stage_items = set(sorted(list(stage_items)))
     if not stage_items:
         print(f"-> 처리할 내용이 없습니다.")
         return 0
 
     # 2. 필터링: stage_items 에는 있지만 committed_items 에는 없는 것
     new_items = [item for item in stage_items if item not in committed_items]
-    
+    new_items = sorted(new_items)
     # 3. 정렬 (원본 순서를 유지하기 위해 stage_items 순서대로 다시 정렬)
     #    set은 순서가 없으므로, 원본 리스트에서 순서를 찾아 정렬하는 것이 좋습니다.
     #    간단하게는 그냥 new_items 리스트를 사용해도 무방합니다. (순서가 중요하지 않다면)
