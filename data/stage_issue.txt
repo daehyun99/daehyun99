@@ -1,3 +1,4 @@
 🔴[#2379](https://github.com/pgmpy/pgmpy/issues/2379)
 🔴[#2449](https://github.com/pgmpy/pgmpy/issues/2449)
+🟢[#2451](https://github.com/pgmpy/pgmpy/issues/2451)
 🟣[#2415](https://github.com/pgmpy/pgmpy/issues/2415)
