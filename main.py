@@ -9,7 +9,6 @@ load_dotenv()
 MY_GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 MY_USERNAME = "daehyun99" 
 
-# ✨😁😄😅😏😂😀🙄🤔🔥
 REPO_NAMES = [
     "pgmpy/pgmpy",
     "pytorch/pytorch"
@@ -18,11 +17,12 @@ REPO_NAMES = [
 if __name__ == "__main__":
     for REPO_NAME in REPO_NAMES:
         
-        OUTPUT_DIR = "data/" + REPO_NAME
+        OUTPUT_BASE = "data"
+        OUTPUT_DIR = os.path.join(OUTPUT_BASE, REPO_NAME)
         OUTPUT_FILENAME1 = os.path.join(OUTPUT_DIR, "stage_issue.txt")
         OUTPUT_FILENAME2 = os.path.join(OUTPUT_DIR, "stage_pr.txt")
 
-        COMMIT_FILE = os.path.join(OUTPUT_DIR, "commit.txt")
+        COMMIT_FILE = os.path.join(OUTPUT_BASE, "commit.txt")
         STAGE_ISSUE_FILE = os.path.join(OUTPUT_DIR, "stage_issue.txt")
         STAGE_PR_FILE = os.path.join(OUTPUT_DIR, "stage_pr.txt")
 

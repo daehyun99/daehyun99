@@ -50,7 +50,7 @@ HI! I am Dae-Hyun Kim. <br>
 ## 💻 Open-Source Contributions
 > 🟢: `Open / In Progress` | 🟣: `Merged / Done` | 🔴: `Closed`
 
-### [<img src="https://github.com/pgmpy.png" width="20" height="20" style="border-radius:50%;">](https://github.com/pgmpy/pgmpy) [PGMPY/PGMPY](https://github.com/pgmpy/pgmpy)
+### [<img src="https://github.com/pgmpy.png" width="20" height="20" style="border-radius:50%;">](https://github.com/pgmpy/pgmpy) [pgmpy/pgmpy](https://github.com/pgmpy/pgmpy)
 #### Main Works
 | Description | issues | pull requests |
 | --- | --- | --- |
@@ -58,6 +58,7 @@ HI! I am Dae-Hyun Kim. <br>
 | [Feat] Implement a `_GraphAlgorithmMixin` class based on the paper(e.g. `M-separation`) | 🟢[#2384](https://github.com/pgmpy/pgmpy/issues/2384)<br> | | |
 | [Refactor] Refactor all graph classes on `pmgpy` to using the `_CoreGraph`. | 🟢[#2385](https://github.com/pgmpy/pgmpy/issues/2385) | 🟢[#2440](https://github.com/pgmpy/pgmpy/pull/2440)<br> |
 
+#### All Works
 <details>
 <summary> ❗View All Works (Click Here!)</summary>
 
@@ -71,8 +72,24 @@ HI! I am Dae-Hyun Kim. <br>
 | [Feat] Implement a `_GraphAlgorithmMixin` class based on the paper(e.g. `M-separation`) | 🟢[#2384](https://github.com/pgmpy/pgmpy/issues/2384)<br> | | |
 | [Refactor] Refactor all graph classes on `pmgpy` to using the `_CoreGraph`. | 🟢[#2385](https://github.com/pgmpy/pgmpy/issues/2385) | 🟢[#2440](https://github.com/pgmpy/pgmpy/pull/2440)<br> |
 | [etc] Issue creation or code improvement suggestion. | 🟣[#2349](https://github.com/pgmpy/pgmpy/issues/2349)<br>🔴[#2379](https://github.com/pgmpy/pgmpy/issues/2379) | 🟣[#2381](https://github.com/pgmpy/pgmpy/pull/2381)<br>🟢[#2400](https://github.com/pgmpy/pgmpy/pull/2400)|
-| [etc] CI/CD | 🔴[#2449](https://github.com/pgmpy/pgmpy/issues/2449)<br>🟢[#2451](https://github.com/pgmpy/pgmpy/issues/2451)<br> | 🟣[#2428](https://github.com/pgmpy/pgmpy/pull/2428)<br>🔴[#2437](https://github.com/pgmpy/pgmpy/pull/2437)<br>🟢[#2452](https://github.com/pgmpy/pgmpy/pull/2452) |
+| [etc] CI/CD | 🔴[#2449](https://github.com/pgmpy/pgmpy/issues/2449)<br>🟣[#2451](https://github.com/pgmpy/pgmpy/issues/2451)<br> | 🟣[#2428](https://github.com/pgmpy/pgmpy/pull/2428)<br>🔴[#2437](https://github.com/pgmpy/pgmpy/pull/2437)<br>🟣[#2452](https://github.com/pgmpy/pgmpy/pull/2452) |
 | [etc] UI/UX | 🟣[#2415](https://github.com/pgmpy/pgmpy/issues/2415) | 🟣[#2417](https://github.com/pgmpy/pgmpy/pull/2417) |
+
+</details>
+
+### [<img src="https://github.com/pytorch.png" width="20" height="20" style="border-radius:50%;">](https://github.com/pytorch/pytorch) [PyTorch/PyTorch](https://github.com/pytorch/pytorch)
+#### Main Works
+| Description | issues | pull requests |
+| --- | --- | --- |
+
+#### All Works
+<details>
+<summary> ❗View All Works (Click Here!)</summary>
+
+#### All Works
+| Description | issues | pull requests |
+| --- | --- | --- |
+| [Docs] Unable to `git clone` PyTorch wiki on Windows due to colon(`:`) in filename | 🟢[#170183](https://github.com/pytorch/pytorch/issues/170183#issuecomment-3644763030) | --- |
 
 </details>
 
