@@ -52,6 +52,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/commit.txt data/stage_issue.txt data/stage_pr.txt
+          git add data/*/*.txt
           git diff --staged --quiet || git commit -m "🤖 Auto-update: Open source contributions data"
           git push
