@@ -11,7 +11,7 @@ MY_USERNAME = "daehyun99"
 
 REPO_NAMES = [
     "pgmpy/pgmpy",
-    # "pytorch/pytorch"
+    "pytorch/pytorch"
 ]
 
 if __name__ == "__main__":
