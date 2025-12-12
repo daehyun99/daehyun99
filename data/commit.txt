@@ -33,6 +33,4 @@
 🟣[#2417](https://github.com/pgmpy/pgmpy/pull/2417)
 🟣[#2428](https://github.com/pgmpy/pgmpy/pull/2428)
 🟣[#2415](https://github.com/pgmpy/pgmpy/issues/2415)
-🟣[#2451](https://github.com/pgmpy/pgmpy/issues/2451)
-🟣[#2452](https://github.com/pgmpy/pgmpy/pull/2452)
 
