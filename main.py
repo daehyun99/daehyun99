@@ -16,10 +16,9 @@ REPO_NAMES = [
 
 if __name__ == "__main__":
     for REPO_NAME in REPO_NAMES:
-        REPO_NAME = REPO_NAME.split('/')[-1]
 
         OUTPUT_BASE = "data"
-        OUTPUT_DIR = os.path.join(OUTPUT_BASE, REPO_NAME)
+        OUTPUT_DIR = os.path.join(OUTPUT_BASE, REPO_NAME.split('/')[-1])
         OUTPUT_FILENAME1 = os.path.join(OUTPUT_DIR, "stage_issue.txt")
         OUTPUT_FILENAME2 = os.path.join(OUTPUT_DIR, "stage_pr.txt")
 

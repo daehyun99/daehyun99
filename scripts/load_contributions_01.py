@@ -10,7 +10,7 @@ def load_contributions(MY_GITHUB_TOKEN, MY_USERNAME, REPO_NAME, OUTPUT_DIR, OUTP
         print(".env 파일에 GITHUB_TOKEN='ghp_...' 형식으로 설정했는지 확인하세요.")
         exit() # 토큰 없으면 스크립트 종료
 
-    print(f"GitHub 토큰을 성공적으로 로드했습니다. (토큰 일부: {MY_GITHUB_TOKEN[:4]}...{MY_GITHUB_TOKEN[-4:]})")
+    print(f"GitHub 토큰을 성공적으로 로드했습니다.")
 
     # Github 객체 생성
     g = Github(MY_GITHUB_TOKEN)
