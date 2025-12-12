@@ -11,12 +11,13 @@ MY_USERNAME = "daehyun99"
 
 REPO_NAMES = [
     "pgmpy/pgmpy",
-    "pytorch/pytorch"
+    # "pytorch/pytorch"
 ]
 
 if __name__ == "__main__":
     for REPO_NAME in REPO_NAMES:
-        
+        REPO_NAME = REPO_NAME.split('/')[-1]
+
         OUTPUT_BASE = "data"
         OUTPUT_DIR = os.path.join(OUTPUT_BASE, REPO_NAME)
         OUTPUT_FILENAME1 = os.path.join(OUTPUT_DIR, "stage_issue.txt")
@@ -25,6 +26,8 @@ if __name__ == "__main__":
         COMMIT_FILE = os.path.join(OUTPUT_BASE, "commit.txt")
         STAGE_ISSUE_FILE = os.path.join(OUTPUT_DIR, "stage_issue.txt")
         STAGE_PR_FILE = os.path.join(OUTPUT_DIR, "stage_pr.txt")
+
+        os.makedirs(OUTPUT_DIR, exist_ok=True)
 
         load_contributions(MY_GITHUB_TOKEN, MY_USERNAME, REPO_NAME, OUTPUT_DIR, OUTPUT_FILENAME1, OUTPUT_FILENAME2)
         filter_contributions(OUTPUT_DIR, STAGE_ISSUE_FILE, STAGE_PR_FILE, COMMIT_FILE)
