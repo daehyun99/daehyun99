@@ -1,1 +1,2 @@
-🟢[#2456](https://github.com/pgmpy/pgmpy/issues/2456)
+🔴[#2456](https://github.com/pgmpy/pgmpy/issues/2456)
+🟢[#2461](https://github.com/pgmpy/pgmpy/issues/2461)
