@@ -11,7 +11,8 @@ MY_USERNAME = "daehyun99"
 
 REPO_NAMES = [
     "pgmpy/pgmpy",
-    # "pytorch/pytorch"
+    # "pytorch/pytorch",
+    # "openvinotoolkit/openvino",
 ]
 
 if __name__ == "__main__":
