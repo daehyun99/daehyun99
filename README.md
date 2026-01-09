@@ -57,7 +57,7 @@ HI! I am Dae-Hyun Kim. <br>
 | [Refactor] Implement a `CoreGraph` class according to the design discussion. | 🟢[#2383](https://github.com/pgmpy/pgmpy/issues/2383)<br> | 🟢[#2402](https://github.com/pgmpy/pgmpy/pull/2402)<br>🟢[#2450](https://github.com/pgmpy/pgmpy/pull/2450)<br> |
 | [Feat] Implement a `_GraphAlgorithmMixin` class based on the paper(e.g. `M-separation`) | 🟢[#2384](https://github.com/pgmpy/pgmpy/issues/2384)<br> | 🟢[#2487](https://github.com/pgmpy/pgmpy/pull/2487) |
 | [Refactor] Refactor all graph classes on `pmgpy` to using the `_CoreGraph`. | 🟢[#2385](https://github.com/pgmpy/pgmpy/issues/2385) | 🟢[#2440](https://github.com/pgmpy/pgmpy/pull/2440)<br> |
-| [ENH] Optimize `BIFReader` performance for large models. | 🟢[#2461](https://github.com/pgmpy/pgmpy/issues/2461) | 🟢[#2490](https://github.com/pgmpy/pgmpy/pull/2490) |
+| [ENH] Optimize `BIFReader` performance for large models.<br> - 47.28% improvement compared to the previous version.| 🟢[#2461](https://github.com/pgmpy/pgmpy/issues/2461) | 🟢[#2490](https://github.com/pgmpy/pgmpy/pull/2490) |
 
 #### All Works
 <details>
@@ -74,16 +74,19 @@ HI! I am Dae-Hyun Kim. <br>
 | [etc] Issue creation or code improvement suggestion. | 🟣[#2349](https://github.com/pgmpy/pgmpy/issues/2349)<br>🔴[#2379](https://github.com/pgmpy/pgmpy/issues/2379)<br>🔴[#2456](https://github.com/pgmpy/pgmpy/issues/2456) | 🟣[#2381](https://github.com/pgmpy/pgmpy/pull/2381)<br>🟢[#2400](https://github.com/pgmpy/pgmpy/pull/2400)|
 | [etc] CI/CD | 🔴[#2449](https://github.com/pgmpy/pgmpy/issues/2449)<br>🟣[#2451](https://github.com/pgmpy/pgmpy/issues/2451)<br> | 🟣[#2428](https://github.com/pgmpy/pgmpy/pull/2428)<br>🔴[#2437](https://github.com/pgmpy/pgmpy/pull/2437)<br>🟣[#2452](https://github.com/pgmpy/pgmpy/pull/2452) |
 | [etc] UI/UX | 🟣[#2415](https://github.com/pgmpy/pgmpy/issues/2415) | 🟣[#2417](https://github.com/pgmpy/pgmpy/pull/2417) |
-| [ENH] Optimize `BIFReader` performance for large models. | 🟢[#2461](https://github.com/pgmpy/pgmpy/issues/2461) | 🟢[#2490](https://github.com/pgmpy/pgmpy/pull/2490) |
+| [ENH] Optimize `BIFReader` performance for large models.<br> - 47.28% improvement compared to the previous version.| 🟢[#2461](https://github.com/pgmpy/pgmpy/issues/2461) | 🟢[#2490](https://github.com/pgmpy/pgmpy/pull/2490) |
+
 
 </details>
+
 
 ### [<img src="https://github.com/openvinotoolkit.png" width="20" height="20" style="border-radius:50%;">](https://github.com/openvinotoolkit/openvino) [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
 #### Main Works
 | Description | issues | pull requests |
 | --- | --- | --- |
 | Extend ONNX FE with Col2Im operator | 🟢[#30144](https://github.com/openvinotoolkit/openvino/issues/30144#event-21738263062) | 🟢[#33386](https://github.com/openvinotoolkit/openvino/pull/33386)|
-| [Bug]: Fix missing dynamic handling for `output_shape` in `Col2Im::executeDynamicImpl` | 🟢[#33472](https://github.com/openvinotoolkit/openvino/issues/33472) | 🟢[#33473](https://github.com/openvinotoolkit/openvino/pull/33473) |
+| [Bug]: Fix missing dynamic handling for `output_shape` in `Col2Im::executeDynamicImpl` | 🟣[#33472](https://github.com/openvinotoolkit/openvino/issues/33472) | 🟣[#33473](https://github.com/openvinotoolkit/openvino/pull/33473) |
+| Operation Support `quantized::batch_norm2d`| 🟢[#28584](https://github.com/openvinotoolkit/openvino/issues/28584) | --- |
 
 #### All Works
 <details>
@@ -92,23 +95,8 @@ HI! I am Dae-Hyun Kim. <br>
 | Description | issues | pull requests |
 | --- | --- | --- |
 | Extend ONNX FE with Col2Im operator | 🟢[#30144](https://github.com/openvinotoolkit/openvino/issues/30144#event-21738263062) | 🟢[#33386](https://github.com/openvinotoolkit/openvino/pull/33386)|
-| [Bug]: Fix missing dynamic handling for `output_shape` in `Col2Im::executeDynamicImpl` | 🟢[#33472](https://github.com/openvinotoolkit/openvino/issues/33472) | 🟢[#33473](https://github.com/openvinotoolkit/openvino/pull/33473) |
-
-</details>
-
-
-### [<img src="https://github.com/pytorch.png" width="20" height="20" style="border-radius:50%;">](https://github.com/pytorch/pytorch) [PyTorch/PyTorch](https://github.com/pytorch/pytorch)
-#### Main Works
-| Description | issues | pull requests |
-| --- | --- | --- |
-
-#### All Works
-<details>
-<summary> ❗View All Works (Click Here!)</summary>
-
-| Description | issues | pull requests |
-| --- | --- | --- |
-| [Docs] Unable to `git clone` PyTorch wiki on Windows due to colon(`:`) in filename | 🟢[#170183](https://github.com/pytorch/pytorch/issues/170183#issuecomment-3644763030) | --- |
+| [Bug]: Fix missing dynamic handling for `output_shape` in `Col2Im::executeDynamicImpl` | 🟣[#33472](https://github.com/openvinotoolkit/openvino/issues/33472) | 🟣[#33473](https://github.com/openvinotoolkit/openvino/pull/33473) |
+| Operation Support `quantized::batch_norm2d`| 🟢[#28584](https://github.com/openvinotoolkit/openvino/issues/28584) | --- |
 
 </details>
 
