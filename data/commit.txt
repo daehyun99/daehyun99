@@ -41,3 +41,5 @@
 🟢[#2490](https://github.com/pgmpy/pgmpy/pull/2490)
 🟣[#2461](https://github.com/pgmpy/pgmpy/issues/2461)
 🟣[#2490](https://github.com/pgmpy/pgmpy/pull/2490)
+🔴[#2450](https://github.com/pgmpy/pgmpy/pull/2450)
+🟣[#2535](https://github.com/pgmpy/pgmpy/pull/2535)
