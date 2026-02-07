@@ -1,2 +1,4 @@
 🔴[#2440](https://github.com/pgmpy/pgmpy/pull/2440)
-🔴[#2544](https://github.com/pgmpy/pgmpy/pull/2544)
+🔴[#2487](https://github.com/pgmpy/pgmpy/pull/2487)
+🟢[#2544](https://github.com/pgmpy/pgmpy/pull/2544)
+🟢[#2579](https://github.com/pgmpy/pgmpy/pull/2579)
