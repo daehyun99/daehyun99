@@ -1,5 +1,0 @@
-🟢[#2545](https://github.com/pgmpy/pgmpy/issues/2545)
-🟢[#2553](https://github.com/pgmpy/pgmpy/issues/2553)
-🟢[#2554](https://github.com/pgmpy/pgmpy/issues/2554)
-🟢[#2555](https://github.com/pgmpy/pgmpy/issues/2555)
-🟢[#2556](https://github.com/pgmpy/pgmpy/issues/2556)
