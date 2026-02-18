@@ -1,1 +1,2 @@
 🟣[#2544](https://github.com/pgmpy/pgmpy/pull/2544)
+🟣[#2631](https://github.com/pgmpy/pgmpy/pull/2631)
