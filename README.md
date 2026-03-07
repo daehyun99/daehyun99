@@ -41,9 +41,9 @@ HI! I am Dae-Hyun Kim. <br>
 #### Main Works
 | Description | issues | pull requests |
 | --- | --- | --- |
-| [Refactor] Implement a `CoreGraph` class according to the design discussion. | 🟢[#2383](https://github.com/pgmpy/pgmpy/issues/2383)<br> | 🟢[#2402](https://github.com/pgmpy/pgmpy/pull/2402)<br>🔴[#2450](https://github.com/pgmpy/pgmpy/pull/2450)<br> |
+| [Refactor] Implement a `CoreGraph` class according to the design discussion. | 🟣[#2383](https://github.com/pgmpy/pgmpy/issues/2383)<br> | 🟣[#2402](https://github.com/pgmpy/pgmpy/pull/2402) |
 | [Feat] Implement a `_GraphAlgorithmMixin` class based on the paper(e.g. `M-separation`) | 🟢[#2384](https://github.com/pgmpy/pgmpy/issues/2384)<br> | 🟢[#2579](https://github.com/pgmpy/pgmpy/pull/2579) |
-| [Refactor] Refactor all graph classes on `pmgpy` to using the `_CoreGraph`. | 🟢[#2385](https://github.com/pgmpy/pgmpy/issues/2385) | <br>🟢[#2579](https://github.com/pgmpy/pgmpy/pull/2579) |
+| [Refactor] Refactor all graph classes on `pmgpy` to using the `_CoreGraph`. | 🟢[#2385](https://github.com/pgmpy/pgmpy/issues/2385) | 🟢[#2579](https://github.com/pgmpy/pgmpy/pull/2579) |
 | [ENH] Optimize `BIFReader` performance for large models.<br> - 47.28% improvement compared to the previous version.| 🟣[#2461](https://github.com/pgmpy/pgmpy/issues/2461) | 🟣[#2490](https://github.com/pgmpy/pgmpy/pull/2490) |
 
 ### [<img src="https://github.com/openvinotoolkit.png" width="20" height="20" style="border-radius:50%;">](https://github.com/openvinotoolkit/openvino) [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
