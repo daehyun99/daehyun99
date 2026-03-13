@@ -26,8 +26,4 @@
 | [Refactor] Refactor Test code | 🟢[#2545](https://github.com/pgmpy/pgmpy/issues/2545) | 🟣[#2544](https://github.com/pgmpy/pgmpy/pull/2544) |
 | [etc] MNT | 🟢[#2553](https://github.com/pgmpy/pgmpy/issues/2553)<br>🟢[#2554](https://github.com/pgmpy/pgmpy/issues/2554)<br>🟢[#2555](https://github.com/pgmpy/pgmpy/issues/2555)<br>🟢[#2556](https://github.com/pgmpy/pgmpy/issues/2556) |
 
-
-
-
-
 </details>
