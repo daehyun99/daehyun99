@@ -1,3 +1,5 @@
+🟢[#2970](https://github.com/pgmpy/pgmpy/pull/2970)
+🟢[#2971](https://github.com/pgmpy/pgmpy/pull/2971)
 🟣[#2402](https://github.com/pgmpy/pgmpy/pull/2402)
 🟣[#2544](https://github.com/pgmpy/pgmpy/pull/2544)
 🟣[#2631](https://github.com/pgmpy/pgmpy/pull/2631)
