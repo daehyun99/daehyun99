@@ -1,7 +1,0 @@
-🔴[#2330](https://github.com/pgmpy/pgmpy/issues/2330)
-🔴[#2554](https://github.com/pgmpy/pgmpy/issues/2554)
-🔴[#2556](https://github.com/pgmpy/pgmpy/issues/2556)
-🟢[#2877](https://github.com/pgmpy/pgmpy/issues/2877)
-🟢[#2933](https://github.com/pgmpy/pgmpy/issues/2933)
-🟣[#2383](https://github.com/pgmpy/pgmpy/issues/2383)
-🟣[#2545](https://github.com/pgmpy/pgmpy/issues/2545)
