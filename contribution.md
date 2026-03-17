@@ -1,4 +1,4 @@
-# pgmpy contribution (~2026-03-17)
+# contribution (~2026-03-17)
 ### [<img src="https://github.com/pgmpy.png" width="20" height="20" style="border-radius:50%;">](https://github.com/pgmpy/pgmpy) [pgmpy/pgmpy](https://github.com/pgmpy/pgmpy)
 #### Main Works
 | Description | issues | pull requests |
@@ -24,3 +24,23 @@
 | [ENH] Optimize `BIFReader` performance for large models.<br> - 47.28% improvement compared to the previous version.| 🟣[#2461](https://github.com/pgmpy/pgmpy/issues/2461) | 🟣[#2490](https://github.com/pgmpy/pgmpy/pull/2490) |
 | [Refactor] Refactor Test code | 🟢[#2545](https://github.com/pgmpy/pgmpy/issues/2545) | 🟣[#2544](https://github.com/pgmpy/pgmpy/pull/2544)<br>🟣[#2631](https://github.com/pgmpy/pgmpy/pull/2631) |
 | [etc] MNT | 🟢[#2553](https://github.com/pgmpy/pgmpy/issues/2553)<br>🟢[#2555](https://github.com/pgmpy/pgmpy/issues/2555)<br>🟣[#2556](https://github.com/pgmpy/pgmpy/issues/2556) | 🟢[#2971](https://github.com/pgmpy/pgmpy/pull/2971)<br>🟣[#2970](https://github.com/pgmpy/pgmpy/pull/2970) |
+
+
+### [<img src="https://github.com/openvinotoolkit.png" width="20" height="20" style="border-radius:50%;">](https://github.com/openvinotoolkit/openvino) [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
+#### Main Works
+| Description | issues | pull requests |
+| --- | --- | --- |
+| Extend ONNX FE with Col2Im operator | 🟢[#30144](https://github.com/openvinotoolkit/openvino/issues/30144#event-21738263062) | 🟢[#33386](https://github.com/openvinotoolkit/openvino/pull/33386)|
+| [Bug]: Fix missing dynamic handling for `output_shape` in `Col2Im::executeDynamicImpl` | 🟣[#33472](https://github.com/openvinotoolkit/openvino/issues/33472) | 🟣[#33473](https://github.com/openvinotoolkit/openvino/pull/33473) |
+| [TF FE]: Support complex tensors for Slice operations | 🟢[#23245](https://github.com/openvinotoolkit/openvino/issues/23245) | 🟢[#34160](https://github.com/openvinotoolkit/openvino/pull/34160) |
+
+
+### [<img src="https://github.com/keras-team.png" width="20" height="20" style="border-radius:50%;">](https://github.com/keras-team/keras) [keras-team/keras](https://github.com/keras-team/keras)
+#### Main Works
+| Description | issues | pull requests |
+| --- | --- | --- |
+| [OpenVINO backend] Report overflow bug | 🟣[#22291](https://github.com/keras-team/keras/issues/22291)|
+| [OpenVINO backend] Support `beta` operation | 🟣[#34308](https://github.com/openvinotoolkit/openvino/issues/34308) | 🟣[#22285](https://github.com/keras-team/keras/pull/22285)|
+| [OpenVINO backend] Support `unstack` operation | 🟢[#34619](https://github.com/openvinotoolkit/openvino/issues/34619) | 🟢[#22422](https://github.com/keras-team/keras/pull/22422) |
+| [OpenVINO Backend]: Improve test code `CoreOpsCallsTests` | 🟢[#22423](https://github.com/keras-team/keras/issues/22423) | 🟢[#22422](https://github.com/keras-team/keras/pull/22422) |
+| ETC | - | 🟣[#22289](https://github.com/keras-team/keras/pull/22289) |
