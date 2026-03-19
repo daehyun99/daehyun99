@@ -5,5 +5,5 @@
 | [OpenVINO backend] Report overflow bug | 🟣[#22291](https://github.com/keras-team/keras/issues/22291)|
 | [OpenVINO backend] Support `beta` operation | 🟣[#34308](https://github.com/openvinotoolkit/openvino/issues/34308) | 🟣[#22285](https://github.com/keras-team/keras/pull/22285)|
 | [OpenVINO backend] Support `unstack` operation | 🟢[#34619](https://github.com/openvinotoolkit/openvino/issues/34619) | 🟢[#22422](https://github.com/keras-team/keras/pull/22422) |
-| [OpenVINO Backend]: Improve test code `CoreOpsCallsTests` | 🟢[#22423](https://github.com/keras-team/keras/issues/22423) | 🟢[#22422](https://github.com/keras-team/keras/pull/22422) |
+| [OpenVINO Backend]: Improve test code `CoreOpsCallsTests` | 🟢[#22423](https://github.com/keras-team/keras/issues/22423) | 🟢[#22449](https://github.com/keras-team/keras/pull/22449) |
 | ETC | - | 🟣[#22289](https://github.com/keras-team/keras/pull/22289) |

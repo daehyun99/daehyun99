@@ -24,6 +24,6 @@
 | [etc] UI/UX | 🟣[#2415](https://github.com/pgmpy/pgmpy/issues/2415) | 🟣[#2417](https://github.com/pgmpy/pgmpy/pull/2417) |
 | [ENH] Optimize `BIFReader` performance for large models.<br> - 47.28% improvement compared to the previous version.| 🟣[#2461](https://github.com/pgmpy/pgmpy/issues/2461) | 🟣[#2490](https://github.com/pgmpy/pgmpy/pull/2490) |
 | [Refactor] Refactor Test code | 🟢[#2545](https://github.com/pgmpy/pgmpy/issues/2545) | 🟣[#2544](https://github.com/pgmpy/pgmpy/pull/2544)<br>🟣[#2631](https://github.com/pgmpy/pgmpy/pull/2631) |
-| [etc] MNT | 🟢[#2553](https://github.com/pgmpy/pgmpy/issues/2553)<br>🟢[#2555](https://github.com/pgmpy/pgmpy/issues/2555)<br>🟣[#2556](https://github.com/pgmpy/pgmpy/issues/2556) | 🟢[#2971](https://github.com/pgmpy/pgmpy/pull/2971)<br>🟣[#2970](https://github.com/pgmpy/pgmpy/pull/2970) |
+| [etc] MNT | 🟢[#2553](https://github.com/pgmpy/pgmpy/issues/2553)<br>🟢[#2555](https://github.com/pgmpy/pgmpy/issues/2555)<br>🟣[#2556](https://github.com/pgmpy/pgmpy/issues/2556)<br>🟢[#3030](https://github.com/pgmpy/pgmpy/issues/3030)<br>🟢[#3032](https://github.com/pgmpy/pgmpy/issues/3032) | 🟢[#2971](https://github.com/pgmpy/pgmpy/pull/2971)<br>🟣[#2970](https://github.com/pgmpy/pgmpy/pull/2970) |
 
 </details>
