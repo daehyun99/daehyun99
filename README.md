@@ -106,3 +106,4 @@ HI! I am Dae-Hyun Kim. <br>
 | Certificate | Issuing Organization | Date |
 | --- | --- | --- |
 | AICE Associate | AICE | 2025.01 |
+| Fundamentals of Accelerated Computing with CUDA Python | NVIDIA | 2026.03 |
