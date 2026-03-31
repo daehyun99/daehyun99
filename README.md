@@ -63,7 +63,7 @@ HI! I am Dae-Hyun Kim. <br>
 | [etc] UI/UX | 🟣[#2415](https://github.com/pgmpy/pgmpy/issues/2415) | 🟣[#2417](https://github.com/pgmpy/pgmpy/pull/2417) |
 | [ENH] Optimize `BIFReader` performance for large models.<br> - 47.28% improvement compared to the previous version.| 🟣[#2461](https://github.com/pgmpy/pgmpy/issues/2461) | 🟣[#2490](https://github.com/pgmpy/pgmpy/pull/2490) |
 | [Refactor] Refactor Test code | 🟢[#2545](https://github.com/pgmpy/pgmpy/issues/2545) | 🟣[#2544](https://github.com/pgmpy/pgmpy/pull/2544)<br>🟣[#2631](https://github.com/pgmpy/pgmpy/pull/2631) |
-| [etc] MNT | 🟢[#2553](https://github.com/pgmpy/pgmpy/issues/2553)<br>🟢[#2555](https://github.com/pgmpy/pgmpy/issues/2555)<br>🟣[#2556](https://github.com/pgmpy/pgmpy/issues/2556)<br>🟢[#3030](https://github.com/pgmpy/pgmpy/issues/3030)<br>🟢[#3032](https://github.com/pgmpy/pgmpy/issues/3032) | 🟢[#2971](https://github.com/pgmpy/pgmpy/pull/2971)<br>🟣[#2970](https://github.com/pgmpy/pgmpy/pull/2970) |
+| [etc] MNT | 🟢[#2553](https://github.com/pgmpy/pgmpy/issues/2553)<br>🟢[#2555](https://github.com/pgmpy/pgmpy/issues/2555)<br>🟣[#2556](https://github.com/pgmpy/pgmpy/issues/2556)<br>🟢[#3030](https://github.com/pgmpy/pgmpy/issues/3030)<br>🟢[#3032](https://github.com/pgmpy/pgmpy/issues/3032) | 🟢[#2971](https://github.com/pgmpy/pgmpy/pull/2971)<br>🟣[#2970](https://github.com/pgmpy/pgmpy/pull/2970)<br>🟣[#3133](https://github.com/pgmpy/pgmpy/pull/3133) |
 
 </details>
 
@@ -85,6 +85,9 @@ HI! I am Dae-Hyun Kim. <br>
 | [OpenVINO backend] Support `beta` operation | 🟣[#34308](https://github.com/openvinotoolkit/openvino/issues/34308) | 🟣[#22285](https://github.com/keras-team/keras/pull/22285)|
 | [OpenVINO backend] Support `unstack` operation | 🟣[#34619](https://github.com/openvinotoolkit/openvino/issues/34619) | 🟣[#22422](https://github.com/keras-team/keras/pull/22422) |
 | [OpenVINO Backend]: Improve test code `CoreOpsCallsTests` | 🟣[#22423](https://github.com/keras-team/keras/issues/22423) | 🟣[#22449](https://github.com/keras-team/keras/pull/22449) |
+| [Bug] `keras.ops.argmax` inconsistent output shapes for eager tensors | 🟢[#22523](https://github.com/keras-team/keras/issues/22523) | 🟢[#22524](https://github.com/keras-team/keras/pull/22524) |
+| [Bug] `keras.ops.argmin` inconsistent output shapes for eager tensors | 🟢[#22562](https://github.com/keras-team/keras/issues/22562) | 🟢[#22563](https://github.com/keras-team/keras/pull/22563) |
+| [Bug] `keras.ops.istft` inconsistent output shapes for eager tensors | 🟢[#22529](https://github.com/keras-team/keras/issues/22529) | 🟢[#22565](https://github.com/keras-team/keras/pull/22565) |
 | ETC | - | 🟣[#22289](https://github.com/keras-team/keras/pull/22289) |
 
 
