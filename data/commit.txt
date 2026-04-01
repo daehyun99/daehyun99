@@ -72,3 +72,4 @@
 🟢[#3032](https://github.com/pgmpy/pgmpy/issues/3032)
 🟢[#22449](https://github.com/keras-team/keras/pull/22449)
 🟣[#3133](https://github.com/pgmpy/pgmpy/pull/3133)
+🟢[#3260](https://github.com/pgmpy/pgmpy/pull/3260)
