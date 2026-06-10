@@ -3,28 +3,13 @@ HI! I am Dae-Hyun Kim. <br>
 ## About ME
 
 ### 📧 Contact
-<a href="mailto:daehyun99@kakao.com">
-    <img src="https://img.shields.io/badge/daehyun99@kakao.com-FEE500?style=for-the-badge&logo=maildotru&logoColor=black"/>
-</a>
-<a href="https://www.linkedin.com/in/daehyun-kim-5084b9333/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+- daehyun99@kakao.com
 
 ## 🛠 Tech Stacks
 <a href="">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-    <br>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-    <br>
-    <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-    <br>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    
-    
+    <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> 
 </a>
 
 ## 🏫 Education
@@ -92,22 +77,9 @@ HI! I am Dae-Hyun Kim. <br>
 | [Bug] `keras.ops.istft` inconsistent output shapes for eager tensors | 🟣[#22529](https://github.com/keras-team/keras/issues/22529) | 🟣[#22565](https://github.com/keras-team/keras/pull/22565) |
 | ETC | - | 🟣[#22289](https://github.com/keras-team/keras/pull/22289) |
 
-
-
-
 ## 🤝 Open-Source Community
-### [<img src="https://github.com/hellopy-korea.png" width="20" height="20" style="border-radius:50%;">](https://github.com/HelloPy-Korea/CLIck-Me) [HelloPY/CLIck-Me](https://github.com/HelloPy-Korea/CLIck-Me)
-- Led a 3-week project session on building a self-introduction CLI.
-
 ### [<img src="https://github.com/CppKorea.png" width="20" height="20" style="border-radius:50%;">](https://github.com/CppKorea) [CppKorea MeetUp](https://event-us.kr/cppkorea/event/119611)
 - Presentation: A Junior Engineer’s Open-Source Contribution Journey
-
-## 🚀 Projects
-| Project Name | Description | Tech Stack | Links |
-| --- | --- | --- | --- |
-| 🧭 KOTS (Korea Online Terms Service) | An AI-powered terms and conditions analysis solution that helps review complex legal documents quickly and easily. | `Python`, `FastAPI`, `MySQL` | [Repository](https://github.com/TermCompass) |
-| 🏋️‍♀️ LLM-based 5/3/1 Workout Routine Recommendation System | - | `Python`, `gemma`, `FastAPI`, `pandas`, `scikit-learn` | [Repository](https://github.com/daehyun99/LLM-531-Workout-Recommender) |
-| 📝 Translate-app | A web service for translating AI research papers. | `Python`, `FastAPI`, `Docker`, `MySQL` | [Repository](https://github.com/daehyun99/Translate-app) |
 
 ## 🏅 Certificate
 | Certificate | Issuing Organization | Date |
