@@ -1,5 +1,8 @@
+🔴[#2579](https://github.com/pgmpy/pgmpy/pull/2579)
 🔴[#3260](https://github.com/pgmpy/pgmpy/pull/3260)
 🔴[#3366](https://github.com/pgmpy/pgmpy/pull/3366)
 🔴[#3385](https://github.com/pgmpy/pgmpy/pull/3385)
+🔴[#3458](https://github.com/pgmpy/pgmpy/pull/3458)
 🟢[#3311](https://github.com/pgmpy/pgmpy/pull/3311)
+🟢[#3459](https://github.com/pgmpy/pgmpy/pull/3459)
 🟣[#3386](https://github.com/pgmpy/pgmpy/pull/3386)
