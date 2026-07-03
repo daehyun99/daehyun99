@@ -6,5 +6,6 @@
 🟢[#3459](https://github.com/pgmpy/pgmpy/pull/3459)
 🟢[#3462](https://github.com/pgmpy/pgmpy/pull/3462)
 🟢[#3472](https://github.com/pgmpy/pgmpy/pull/3472)
+🟢[#3501](https://github.com/pgmpy/pgmpy/pull/3501)
 🟣[#3311](https://github.com/pgmpy/pgmpy/pull/3311)
 🟣[#3386](https://github.com/pgmpy/pgmpy/pull/3386)
