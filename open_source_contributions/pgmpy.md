@@ -3,10 +3,10 @@
 | Description | issues | pull requests |
 | --- | --- | --- |
 | [Refactor] Implement a `CoreGraph` class according to the design discussion. | 🟣[#2383](https://github.com/pgmpy/pgmpy/issues/2383)<br> | 🟣[#2402](https://github.com/pgmpy/pgmpy/pull/2402) |
-| [Feat] Implement a `_GraphAlgorithmMixin` class based on the paper(e.g. `M-separation`) | 🟢[#2384](https://github.com/pgmpy/pgmpy/issues/2384)<br> | 🟢[#2579](https://github.com/pgmpy/pgmpy/pull/2579) |
-| [Refactor] Refactor `ADMG`, `MAG` graph class on `pmgpy` to using the `_CoreGraph`. | 🟢[#2385](https://github.com/pgmpy/pgmpy/issues/2385) | 🟢[#2579](https://github.com/pgmpy/pgmpy/pull/2579) |
-| [Refactor] Refactor `PDAG` graph class on `pmgpy` to using the `_CoreGraph`. | 🟢[#2385](https://github.com/pgmpy/pgmpy/issues/2385) | 🟢[#3311](https://github.com/pgmpy/pgmpy/pull/3311) |
+| [Refactor] Refactoring graph representation. | 🟣[#2385](https://github.com/pgmpy/pgmpy/issues/2385) | 🟣[#3311](https://github.com/pgmpy/pgmpy/pull/3311) |
 | [ENH] Optimize `BIFReader` performance for large models.<br> - 47.28% improvement compared to the previous version.| 🟣[#2461](https://github.com/pgmpy/pgmpy/issues/2461) | 🟣[#2490](https://github.com/pgmpy/pgmpy/pull/2490) |
+| [Refactor] Refactor CPD class and extend `scikit-learn` compatibility | 🟢[#3452](https://github.com/pgmpy/pgmpy/issues/3452) | 🟢[#3459](https://github.com/pgmpy/pgmpy/pull/3459)<br>🟢[#3462](https://github.com/pgmpy/pgmpy/pull/3462)<br>🟢[#3472](https://github.com/pgmpy/pgmpy/pull/3472)<br>🟢[#3501](https://github.com/pgmpy/pgmpy/pull/3501)<br>🟢[#3515](https://github.com/pgmpy/pgmpy/pull/3515) |
+| [Refactor] Refactor Test code | 🟢[#2545](https://github.com/pgmpy/pgmpy/issues/2545) | 🟣[#2544](https://github.com/pgmpy/pgmpy/pull/2544)<br>🟣[#2631](https://github.com/pgmpy/pgmpy/pull/2631) |
 
 #### All Works
 <details>
@@ -26,6 +26,8 @@
 | [etc] UI/UX | 🟣[#2415](https://github.com/pgmpy/pgmpy/issues/2415) | 🟣[#2417](https://github.com/pgmpy/pgmpy/pull/2417) |
 | [ENH] Optimize `BIFReader` performance for large models.<br> - 47.28% improvement compared to the previous version.| 🟣[#2461](https://github.com/pgmpy/pgmpy/issues/2461) | 🟣[#2490](https://github.com/pgmpy/pgmpy/pull/2490) |
 | [Refactor] Refactor Test code | 🟢[#2545](https://github.com/pgmpy/pgmpy/issues/2545) | 🟣[#2544](https://github.com/pgmpy/pgmpy/pull/2544)<br>🟣[#2631](https://github.com/pgmpy/pgmpy/pull/2631) |
-| [etc] MNT | 🟢[#2553](https://github.com/pgmpy/pgmpy/issues/2553)<br>🟢[#2555](https://github.com/pgmpy/pgmpy/issues/2555)<br>🟣[#2556](https://github.com/pgmpy/pgmpy/issues/2556)<br>🟢[#3030](https://github.com/pgmpy/pgmpy/issues/3030)<br>🟢[#3032](https://github.com/pgmpy/pgmpy/issues/3032) | 🟢[#2971](https://github.com/pgmpy/pgmpy/pull/2971)<br>🟣[#2970](https://github.com/pgmpy/pgmpy/pull/2970)<br>🟣[#3133](https://github.com/pgmpy/pgmpy/pull/3133) |
+| [etc] MNT | 🟢[#2553](https://github.com/pgmpy/pgmpy/issues/2553)<br>🟢[#2555](https://github.com/pgmpy/pgmpy/issues/2555)<br>🟣[#2556](https://github.com/pgmpy/pgmpy/issues/2556)<br>🟢[#3030](https://github.com/pgmpy/pgmpy/issues/3030)<br>🟢[#3032](https://github.com/pgmpy/pgmpy/issues/3032) | 🟢[#2971](https://github.com/pgmpy/pgmpy/pull/2971)<br>🟣[#2970](https://github.com/pgmpy/pgmpy/pull/2970)<br>🟣[#3133](https://github.com/pgmpy/pgmpy/pull/3133)<br>🟣[#3386](https://github.com/pgmpy/pgmpy/pull/3386)
+ |
+
 
 </details>
