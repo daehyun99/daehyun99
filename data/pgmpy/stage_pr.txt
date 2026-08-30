@@ -4,3 +4,4 @@
 🟢[#3501](https://github.com/pgmpy/pgmpy/pull/3501)
 🟢[#3515](https://github.com/pgmpy/pgmpy/pull/3515)
 🟢[#3533](https://github.com/pgmpy/pgmpy/pull/3533)
+🟢[#3556](https://github.com/pgmpy/pgmpy/pull/3556)
