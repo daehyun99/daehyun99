@@ -1,57 +1,57 @@
-# name: Update Contributions
+name: Update Contributions
 
-# on:
-#   schedule:
-#     # 매일 오전 9시 (한국시간 기준 UTC 0시)
-#     - cron: '0 0 * * *'
-#   workflow_dispatch: # 수동 실행 가능
-#   push:
-#     branches: [ main ]
-#     paths:
-#       # 파이썬 스크립트, 요구사항, 워크플로우 파일이 변경될 때 실행
-#       - 'main.py'
-#       - 'data/**.txt'
-#       - 'scripts/**.py'
-#       - 'requirements.txt'
-#       - '.github/workflows/**'
-#   pull_request:
-#     branches: [ main ]
+on:
+  schedule:
+    # 매일 오전 9시 (한국시간 기준 UTC 0시)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 수동 실행 가능
+  # push:
+  #   branches: [ main ]
+  #   paths:
+  #     # 파이썬 스크립트, 요구사항, 워크플로우 파일이 변경될 때 실행
+  #     - 'main.py'
+  #     - 'data/**.txt'
+  #     - 'scripts/**.py'
+  #     - 'requirements.txt'
+  #     - '.github/workflows/**'
+  # pull_request:
+  #   branches: [ main ]
 
-# permissions:
-#   contents: write # 저장소에 코드 push 권한 부여
+permissions:
+  contents: write # 저장소에 코드 push 권한 부여
 
-# jobs:
-#   update-contributions:
-#     runs-on: ubuntu-latest
+jobs:
+  update-contributions:
+    runs-on: ubuntu-latest
 
-#     steps:
-#       - name: Checkout repository
-#         uses: actions/checkout@v4
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-#       # 1. Python 설치
-#       - name: Setup Python
-#         uses: actions/setup-python@v5
-#         with:
-#           python-version: '3.11' # 원하시는 파이썬 버전 사용
+      # 1. Python 설치
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11' # 원하시는 파이썬 버전 사용
 
-#       # 2. Python 의존성 설치 (PyGithub, python-dotenv 등)
-#       - name: Install Python dependencies
-#         run: |
-#           python -m pip install --upgrade pip
-#           pip install -r requirements.txt
+      # 2. Python 의존성 설치 (PyGithub, python-dotenv 등)
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-#       # 3. 'main.py' 스크립트 실행
-#       - name: Run update contributions script
-#         run: python main.py
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
-#           MY_USERNAME: ${{ github.repository_owner }} 
+      # 3. 'main.py' 스크립트 실행
+      - name: Run update contributions script
+        run: python main.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          MY_USERNAME: ${{ github.repository_owner }} 
 
-#       # 4. 변경된 data 파일들을 커밋 및 푸시
-#       - name: Commit updated data files
-#         run: |
-#           git config --local user.email "action@github.com"
-#           git config --local user.name "GitHub Action"
-#           git add data/*/*.txt
-#           git diff --staged --quiet || git commit -m "🤖 Auto-update: Open source contributions data"
-#           git push
+      # 4. 변경된 data 파일들을 커밋 및 푸시
+      - name: Commit updated data files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/*/*.txt
+          git diff --staged --quiet || git commit -m "🤖 Auto-update: Open source contributions data"
+          git push
