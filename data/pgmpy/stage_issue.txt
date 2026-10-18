@@ -12,6 +12,7 @@
 🟢[#3531](https://github.com/pgmpy/pgmpy/issues/3531)
 🟢[#3584](https://github.com/pgmpy/pgmpy/issues/3584)
 🟢[#3585](https://github.com/pgmpy/pgmpy/issues/3585)
+🟢[#3638](https://github.com/pgmpy/pgmpy/issues/3638)
 🟣[#2384](https://github.com/pgmpy/pgmpy/issues/2384)
 🟣[#2385](https://github.com/pgmpy/pgmpy/issues/2385)
 🟣[#2933](https://github.com/pgmpy/pgmpy/issues/2933)
